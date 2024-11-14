@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.21.1",
     "node-fetch": "^2.2.0",
     "nodemon": "^1.18.3",
     "wallet-address-validator": "^0.1.7"
